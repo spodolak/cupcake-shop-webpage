@@ -3,6 +3,9 @@ h1{
   text-align: center;
   color:red;
 }
+p{
+  font-family:sans-serif;
+}
 p.tagline{
   font-family: sans-serif;
   font-style: italic;
